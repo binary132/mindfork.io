@@ -1,4 +1,4 @@
-mindfork.github.io
+mindfork.io
 ==================
 
 The public Mindfork info page.
